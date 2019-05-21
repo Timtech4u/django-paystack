@@ -13,6 +13,10 @@ Usage:
 ```
 pip install -e git+https://github.com/gbozee/django-paystack.git@master#egg=paystack
 ```
+Using pipenv?
+```
+pipenv install git+https://github.com/gbozee/django-paystack.git@master#egg=paystack
+```
 
 2. Add `paystack` to your `settings` module
 ```
